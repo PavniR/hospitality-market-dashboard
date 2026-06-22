@@ -10,7 +10,7 @@ This interface incorporates an advanced user experience (UX) layout. It leverage
 ## Interactive Project Demo
 *Since this project contains rich visual animations and toggle selections, watch the video below to see it in action:*
 
-![Dashboard Demo Video](./dashboard_demo.mp4)
+![Dashboard Demo Video](./dashboard-demo.mp4)
 * **Analytical Dashboard Core:** [Click to open local `.pbix` Source File](./airbnb-dashboard.pbix)
 
 ---
