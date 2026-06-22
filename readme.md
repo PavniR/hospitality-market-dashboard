@@ -11,6 +11,7 @@ This interface incorporates an advanced user experience (UX) layout. It leverage
 *Since this project contains rich visual animations and toggle selections, watch the video below to see it in action:*
 
 ![Dashboard Demo Video](./dashboard_demo.mp4)
+* **Analytical Dashboard Core:** [Click to open local `.pbix` Source File](./airbnb-dashboard.pbix)
 
 ---
 ##  Quick Insights:
@@ -77,9 +78,6 @@ I heavily utilized **DAX (Data Analysis Expressions)** to write custom mathemati
 * **Dynamic Averages:** Wrote formulas to track the average price changes and service fee ratios across different areas.
 * **Review Velocity:** Created measures to track how fast listings accumulate reviews per month.
 * **Rule vs. Rating Logic:** Built calculations that look at host rules and instantly output consumer satisfaction scores.
----
-
-* **Analytical Dashboard Core:** [Click to open local `.pbix` Source File](./airbnb-dashboard.pbix) 
 
 ---
 **Author** [Pavni Rastogi]  
