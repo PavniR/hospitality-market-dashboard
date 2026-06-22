@@ -10,7 +10,7 @@ This interface incorporates an advanced user experience (UX) layout. It leverage
 ## Interactive Project Demo
 *Since this project contains rich visual animations and toggle selections, watch the video below to see it in action:*
 
-<video src="https://github.com/PavniR/hospitality-market-dashboard/dashboard-demo.mp4" width="100%" autoplay loop muted playsinline></video>
+![Project Demo](dashboard-demo.gif)
 
 * **Analytical Dashboard Core:** [Click to open local `.pbix` Source File](./airbnb-dashboard.pbix)
 
